@@ -2,10 +2,10 @@
 
 
 
-[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-lima-7155a6255/)
-
 
 ![Fernanda GitHub stats](https://github-readme-stats.vercel.app/api?username=73rnandaL1ma&show_icons=true&theme=dracula)
+
+[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernanda-lima-7155a6255/)
 
 ## Tecnologias em estudos 🌱
 
@@ -30,5 +30,6 @@
 <img align= "center" alt = "Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 </div> </br>
+
 
 
